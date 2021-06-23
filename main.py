@@ -1,10 +1,8 @@
 # To update prices of ores in the current market check out the 'Prices' folder in the file directory and change the values in each file -- You might have to 'Fork' this program
 
-
 import random
 import time
 import os
-
 
 korreliteCompleted = False
 rekniteCompleted = False
